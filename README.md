@@ -1,9 +1,17 @@
-# ECS-project
+# BookShop Project
+
+## Tech Stack Used:
+* HTML
+* CSS
+* Javascript
+* React JS
+* Redux
+* Material-UI
  
 ## ScreenShots
 
-![Screenshot from 2021-01-23 22-02-44](https://user-images.githubusercontent.com/61466065/105607985-3b517000-5dc7-11eb-9c95-9157e0f82f5b.png)
+![Screenshot from 2021-03-01 22-47-37](https://user-images.githubusercontent.com/61466065/109534637-8f93f200-7ae1-11eb-8534-46c0a61ff4ef.png)
 
+![Screenshot from 2021-03-01 22-47-51](https://user-images.githubusercontent.com/61466065/109534659-96226980-7ae1-11eb-9450-9d741645a91b.png)
 
-
-![Screenshot from 2021-01-23 22-02-12](https://user-images.githubusercontent.com/61466065/105607993-4906f580-5dc7-11eb-986a-3a8f6ae58cfa.png)
+![Screenshot from 2021-03-01 22-48-14](https://user-images.githubusercontent.com/61466065/109534678-9a4e8700-7ae1-11eb-8f09-cab252e71109.png)

@@ -11,6 +11,7 @@ import ShoppingCartIcon from "@material-ui/icons/ShoppingCart";
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
+    margin:"80px auto"
   },
   homeButton: {
     marginRight: theme.spacing(3),
@@ -25,7 +26,7 @@ const Navbar = () => {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static" style={{ backgroundColor: "ivory" }}>
+      <AppBar position="fixed" style={{ backgroundColor: "#8296ce" }}>
         <Toolbar style={{ justifyContent: "space-between" }}>
           <div style={{ display: "flex" }}>
             <Typography
@@ -33,11 +34,13 @@ const Navbar = () => {
               className={classes.homeButton}
               color="inherit"
             >
-              <Link to="/" style={{textDecoration: "none",}}>Home</Link>
+              <Link to="/" style={{ textDecoration: "none" }}>
+                BookShop
+              </Link>
             </Typography>
           </div>
           <div>
-            <TextField variant="outlined" color="inherit" label="search book" />
+          
             <IconButton
               edge="start"
               className={classes.cartButton}
